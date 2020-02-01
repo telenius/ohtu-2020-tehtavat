@@ -5,9 +5,15 @@ Listataan kaikki repot (tein tehtavia aika moneen eri repositorioon)
 ----
 ## VIIKKO 2
 
-VIIKKO 2 : tehtavat 7-8
+VIIKKO 2 : tehtavat 1, 7-8
 https://github.com/telenius/ohtu-2020-viikko2a
 
+VIIKKO 2 : tehtavat 2-3 (ohtuvarasto)
+https://github.com/telenius/ohtu-2020-viikko1
+
+VIIKKO 2 : tehtavat 4-6
+Vain omalla koneella (ei kasittaakseni tarvinnut pushaa githubiin?)
+Jos tarvitsee, voin kylla pushaa nekin tanne ?
 
 ----
 ## VIIKKO 1
