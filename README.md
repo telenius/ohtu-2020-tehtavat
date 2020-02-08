@@ -20,6 +20,9 @@ VIIKKO 2 : tehtavat 4-6
 Vain omalla koneella (ei kasittaakseni tarvinnut pushaa githubiin?)
 Jos tarvitsee, voin kylla pushaa nekin tanne ?
 
+VIIKKO 2 : tehtavat 9-11
+https://github.com/telenius/ohtu-2020-viikko2b
+
 ----
 ## VIIKKO 1
 
