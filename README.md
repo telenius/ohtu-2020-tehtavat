@@ -4,7 +4,7 @@ Listataan kaikki repot (tein tehtavia aika moneen eri repositorioon)
 ----
 ## VIIKKO 3
 
-VIIKKO 3 : tehtavat 1-6
+VIIKKO 3 : kaikki tehtavat 
 https://github.com/telenius/ohtu-2020-viikko3
 
 ----
